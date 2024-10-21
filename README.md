@@ -1,5 +1,5 @@
 - 👋 Opa, sou @yurizinlala.
-- 👀 Dou mó valor a penis.
+- 👀 Dou mó valor a fazer programa.
 - 🌱 Atualmente to quebrando cabeça com C e Java.
 - 💞️ Tô procurando alguém com problema mental para desenvolver em React Native junto comigo.
 - 📫 Se quiser falar comigo, só dar um grito.
