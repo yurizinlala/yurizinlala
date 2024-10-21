@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yurizinlala
-- 👀 I’m interested in penis
-- 🌱 I’m currently learning penis++
-- 💞️ I’m looking to collaborate on penis development
-- 📫 How to reach me, just say penis out loud
-- 😄 Pronouns: pe/nis
-- ⚡ Fun fact: penis
+- 👋 Opa, sou @yurizinlala.
+- 👀 Dou mó valor a penis.
+- 🌱 Atualmente to quebrando cabeça com C e Java.
+- 💞️ Tô procurando alguém com problema mental para desenvolver em React Native junto comigo.
+- 📫 Se quiser falar comigo, só dar um grito.
+- 😄 Pronomes: do/ente
+- ⚡ Fato interessante: Sabia que os elefantes não conseguem pular?
 
 <!---
 yurizinlala/yurizinlala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
